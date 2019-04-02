@@ -1,0 +1,140 @@
+body {
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	font-family: 'Arial' !important;
+}
+h1 {
+	font-weight: bold;
+	color: crimson !important;
+}
+h2 {
+	font-weight: bold;
+	font-size: 20px !important;
+}
+h3{
+	font-family: 'Georgia' !important;
+	font-size: 20px !important;
+	color: BLACK !important;
+	text-align: center;
+}
+
+
+h4 {
+	font-family: 'Georgia' !important;
+	font-size: 80px !important;
+	color: PINK !important;
+	text-align: center;
+}
+
+h5 {
+   font-size: 80px
+	 color: gray;
+	 text-align: center;
+   }
+.text-justified {
+	text-align: justify;
+}
+.codefirst_logo img {
+	border: none;
+	display: block;
+	margin: 0 auto;
+}
+.instagram_logo img {
+	border: none;
+	display: block;
+	margin: 0 auto;
+}
+#map {
+	position: relative;
+	height: calc(100vh - 56px);
+	z-index: 0;
+	/* Set z-index to 0 as it will be on a layer below the contact form */
+}
+#overlay {
+	position: relative;
+	bottom: 60px;
+	z-index: 2;
+	margin: 0 auto;
+}
+ul.navbar-nav {
+	padding-top: 12px;
+
+}
+ul.navbar-nav a:hover {
+	background-color: #000000!important;
+	color: lavenderblush !important;
+}
+.gm-style .gm-style-iw {
+	font-family: 'Georgia' !important;
+}
+.btn-custom {
+	background-color: #404040;
+	border-color: #202020;
+	color: #ffffff !important;
+}
+.btn-custom:hover, .btn-custom:focus, .btn-custom.active {
+	box-shadow: none !important;
+	background-color: #303030;
+	border-color: #202020;
+	color: #ffffff !important;
+}
+.btn-custom.disabled:hover, .btn-custom.disabled:focus, .btn-custom.disabled:active, .btn-custom.disabled.active, .btn-custom[disabled]:hover, .btn-custom[disabled]:focus, .btn-custom[disabled]:active, .btn-custom[disabled].active, fieldset[disabled] .btn-custom:hover, fieldset[disabled] .btn-custom:focus, fieldset[disabled] .btn-custom:active, fieldset[disabled] .btn-custom.active {
+	background-color: #a6a6a6;
+	border-color: #a6a6a6;
+}
+.row-custom {
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+	height: calc(100vh - 56px) !important;
+}
+.bg-1 {
+	background-color: #ffffff;
+	color: #000000;
+}
+.col-sm-12 {
+	color: #000000;
+	background-color: #ffffff;
+	padding-top: 15px;
+}
+.col-sm-6 {
+	color: #000000;
+	background-color: #ffffff;
+	padding-top: 15px;
+}
+.col-sm-3 {
+	background-color: ;
+	color: #000000;
+	padding-top: 15px;
+}
+
+a.featuredlink{
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.carousel{
+	/* width: 800px;
+	height: 400px;
+	top: 15%;
+	left: 15%; */
+}
+	/* p {
+		margin-right: 400px;
+	}
+
+
+	ul {
+		margin-right: 400px;
+	}
+
+	a p {
+		margin-right: 400px;
+	}
+
+
+	ul {
+		margin-right: 400px;
+	} */
